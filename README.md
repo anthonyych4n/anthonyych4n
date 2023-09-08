@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anthonyych4n
-- 👀 I’m interested in volleyball, engineering, and video games.
-- 🌱 I’m currently learning the fundamental principles to coding.
-- 💞️ I’m looking to collaborate on a new project to replace some commonly used technology.
-- 📫 How to reach me anthony168c@gmail.com
+Hey I'm Anthony,
+
+I'm a 2nd year Computer Science student studying at the University of Calgary.
+I'm interested in software development, software architecture, machine learning, and AI.
+
 
 
 <!---
