@@ -1,8 +1,8 @@
 Hey, I'm Anthony.
 
 I'm a 2nd year Computer Science student studying at the University of Calgary. 
-My interests are in software development, software architecture, machine learning, and AI.
-My hobbies include hiking, volleyball, gym, cooking/baking, and 3-d printing.
+My interests are in software development, machine learning, AI and software architecture.
+My hobbies include hiking, volleyball, working out, cooking/baking, and 3-D printing.
 
 
 
