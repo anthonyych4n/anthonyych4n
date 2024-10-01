@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on two full-stack web apps!
 <br>👯 I’m looking to collaborate on any future projects related to full-stack or ml!
-<br>🌱 I’m working on my Javascript, Typescript, Python, and TailwindCss skills.
 <br>⚡ Fun fact: My favorite animal is the Capybara
 
 
