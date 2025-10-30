@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I like coding and learning new technologies in my free time. I play volleyball and hike as well!
-<br>👯 I’m looking to collaborate on any future projects related to full-stack or ml!
+<br>👯 Currently learning RAG, MCP and ML related topics.
 <br>⚡ Fun fact: My favorite animal is the Capybara
 
 
